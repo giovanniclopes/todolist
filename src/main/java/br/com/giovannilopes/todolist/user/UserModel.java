@@ -1,5 +1,8 @@
 package br.com.giovannilopes.todolist.user;
 
+import lombok.Data;
+
+@Data
 public class UserModel {
   
   private String username;
