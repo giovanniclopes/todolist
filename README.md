@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Java 17
 - Maven
-- Your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse)
+- Your favorite Java IDE (e.g., VSCode, IntelliJ IDEA, Eclipse)
 
 ### Installation
 
