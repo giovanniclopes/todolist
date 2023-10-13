@@ -11,8 +11,6 @@ TodoList is a task management application built with Spring Boot, allowing you t
   - [Installation](#installation)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
