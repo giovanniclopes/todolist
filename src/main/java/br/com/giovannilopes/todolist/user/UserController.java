@@ -39,6 +39,6 @@ public class UserController {
     userModel.setPassword(passwordHashred);
 
     var UserCreated = this.userRepository.save(userModel);
-    return ResponseEntity.status(HttpStatus.CREATED).body(UserCreated);
+    return ResponseEntity.status(HttpStatus.OK).body(UserCreated);
   }
 }
